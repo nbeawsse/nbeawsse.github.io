@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on News Pipeline</title>
+    <link>https://nbeawsse.github.io/categories/</link>
+    <description>Recent content in Categories on News Pipeline</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Apr 2020 16:52:59 -0500</lastBuildDate>
+    
+	<atom:link href="https://nbeawsse.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Biology</title>
+      <link>https://nbeawsse.github.io/categories/biology/</link>
+      <pubDate>Wed, 22 Apr 2020 16:52:59 -0500</pubDate>
+      
+      <guid>https://nbeawsse.github.io/categories/biology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19</title>
+      <link>https://nbeawsse.github.io/categories/covid-19/</link>
+      <pubDate>Wed, 22 Apr 2020 16:52:59 -0500</pubDate>
+      
+      <guid>https://nbeawsse.github.io/categories/covid-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
